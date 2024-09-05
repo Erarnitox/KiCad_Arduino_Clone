@@ -8,5 +8,6 @@ This project only uses trough hole technology components to it should be quite
 easy to assemble.
 
 Please note that this really only should aid as a starting point for your final PCB.
-This is how the board currently looks like;
-[image](./res/image.png)
+This is how the board currently looks like:
+
+![image](./res/image.png)
